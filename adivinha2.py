@@ -11,4 +11,3 @@ for n in numeros:
 
 print("O número máximo foi:", max(numeros))
 print("A soma foi:", sum(numeros))
-
